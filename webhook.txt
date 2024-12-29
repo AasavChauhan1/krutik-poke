@@ -1,0 +1,8 @@
+https://api.telegram.org/botYOUR_BOT_TOKEN/getWebhookInfo
+https://api.telegram.org/botYOUR_BOT_TOKEN/https://poke-bot.wewino8360.workers.dev/
+
+8094662076:AAFhc2_iQqfW4bMfJ9OCzjTdYNpZVc9Mdi0
+
+https://api.telegram.org/bot8094662076:AAFhc2_iQqfW4bMfJ9OCzjTdYNpZVc9Mdi0
+/getWebhookInfo
+

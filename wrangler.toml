@@ -1,0 +1,11 @@
+name = "pokemon-bot"
+main = "worker.js"
+compatibility_date = "2023-01-01"
+
+[vars]
+BOT_TOKEN = "8094662076:AAFhc2_iQqfW4bMfJ9OCzjTdYNpZVc9Mdi0"
+ADMIN_ID = "7012379841"
+
+[[kv_namespaces]]
+binding = "POKEMON_KV"
+id = "YOUR_KV_ID_HERE" # Replace with the ID from step 1
